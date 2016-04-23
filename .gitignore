@@ -1,0 +1,6 @@
+ProgTest/Library
+ProgTest/Temp
+Temp
+Library
+ProgTest/Library/*
+ProgTest/Temp/*
